@@ -1,0 +1,17 @@
+body
+{
+background-color:cyan;
+text-align: center;
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.logo
+{
+	width: 100px;margin-top: 30px;border-radius: 50px;
+}
+
